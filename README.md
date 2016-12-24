@@ -1,2 +1,2 @@
 # speed-test-file
-A 1 million byte text file
+A 1 MB (1,048,576 bytes) text file
